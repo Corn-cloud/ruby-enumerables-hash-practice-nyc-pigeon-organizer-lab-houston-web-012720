@@ -5,4 +5,6 @@ def nyc_pigeon_organizer(data)
       names.each do |name|
         
         
+      end     
+   end     
 end
